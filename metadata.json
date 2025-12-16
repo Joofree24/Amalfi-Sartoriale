@@ -1,0 +1,8 @@
+{
+  "name": "Amalfi Sartoriale - Digital Atelier",
+  "description": "A reimaging of Amalfi Sartoriale featuring an AI-powered Style Concierge and visual fabric analysis to bring bespoke Italian tailoring into the digital age.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
